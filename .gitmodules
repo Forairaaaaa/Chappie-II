@@ -1,0 +1,6 @@
+[submodule "Firmware/src/ChappieUI"]
+	path = Firmware/src/ChappieUI
+	url = https://github.com/Forairaaaaa/ChappieUI.git
+[submodule "Firmware/src/ChappieBsp"]
+	path = Firmware/src/ChappieBsp
+	url = https://github.com/Forairaaaaa/ChappieBsp.git
