@@ -1,3 +1,27 @@
+工程为PIO工程，vscode安装PIO扩展后打开文件夹即可
+
+#### 文件树
+
+```
+Chappie-II/
+├── default_16MB.csv
+├── lib
+│   ├── arduinoFFT
+│   ├── ESP32-BLE-Gamepad
+│   ├── FastLED
+│   ├── LovyanGFX
+│   ├── lv_conf.h
+│   ├── lvgl
+│   ├── NimBLE-Arduino
+│   └── README
+├── platformio.ini
+├── src
+    ├── ChappieBsp
+    ├── ChappieUI
+    └── main.cpp
+
+```
+
 #### 下载依赖
 
 ```shell
